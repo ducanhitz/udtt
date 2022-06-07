@@ -1,0 +1,2 @@
+
+    ThungHang th[6];
